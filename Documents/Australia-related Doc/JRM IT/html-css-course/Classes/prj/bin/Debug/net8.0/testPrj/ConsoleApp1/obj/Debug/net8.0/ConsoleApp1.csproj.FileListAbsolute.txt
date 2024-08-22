@@ -1,0 +1,14 @@
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\prj\bin\Debug\net8.0\testPrj\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

@@ -1,0 +1,14 @@
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\bin\Debug\net8.0\Classes.exe
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+C:\Users\nhokc\Documents\Australia-related Doc\JRM IT\html-css-course\Classes\obj\Debug\net8.0\ref\Classes.dll

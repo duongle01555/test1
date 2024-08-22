@@ -1,0 +1,28 @@
+<style>
+body {
+  padding-top: 100px;
+}
+.js-video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: aquamarine;
+}
+.js-avatar-img {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  margin: 10px 20px 10px 10px;
+}
+.js-video-description {
+  display: flex;
+  flex-direction: row;
+  background-color: pink;
+}
+.thumbnail {
+  height: 200px;
+  border-radius: 10px;
+}
+.js-video-block {
+  margin: 10px;
+}
+</style>
